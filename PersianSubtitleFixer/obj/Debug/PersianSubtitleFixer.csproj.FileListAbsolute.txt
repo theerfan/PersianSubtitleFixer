@@ -1,0 +1,7 @@
+c:\users\there\documents\visual studio 2017\Projects\PersianSubtitleFixer\PersianSubtitleFixer\bin\Debug\PersianSubtitleFixer.exe.config
+c:\users\there\documents\visual studio 2017\Projects\PersianSubtitleFixer\PersianSubtitleFixer\bin\Debug\PersianSubtitleFixer.exe
+c:\users\there\documents\visual studio 2017\Projects\PersianSubtitleFixer\PersianSubtitleFixer\bin\Debug\PersianSubtitleFixer.pdb
+c:\users\there\documents\visual studio 2017\Projects\PersianSubtitleFixer\PersianSubtitleFixer\obj\Debug\PersianSubtitleFixer.csprojResolveAssemblyReference.cache
+c:\users\there\documents\visual studio 2017\Projects\PersianSubtitleFixer\PersianSubtitleFixer\obj\Debug\PersianSubtitleFixer.csproj.ResolveComReference.cache
+c:\users\there\documents\visual studio 2017\Projects\PersianSubtitleFixer\PersianSubtitleFixer\obj\Debug\PersianSubtitleFixer.exe
+c:\users\there\documents\visual studio 2017\Projects\PersianSubtitleFixer\PersianSubtitleFixer\obj\Debug\PersianSubtitleFixer.pdb
