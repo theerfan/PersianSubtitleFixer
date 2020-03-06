@@ -72,7 +72,8 @@ namespace PersianSubtitleFixer
 
         static List<string> SeparateFiles()
         {
-            Console.WriteLine("Drag your files and drop them here, when you're finished, enter q");
+            Console.WriteLine("Type/Drag the files you want to fix and drop them here, remember to enter one file in each line." +
+                "\n When you're finished, enter q");
             List<string> filenames = new List<string>();
             string name = Console.ReadLine();
             while (name != "q")
@@ -85,7 +86,8 @@ namespace PersianSubtitleFixer
 
         static List<string> DirectoryFiles()
         {
-            Console.WriteLine("Type the list of the directories you want to fix, when you're finished, enter q");
+            Console.WriteLine("Type/Drag the list of the directories you want to fix, remember to enter one address in each line." +
+                "\n When you're finished, enter q");
             List<string> filenames = new List<string>();
             string directory = Console.ReadLine();
             while (directory != "q")
